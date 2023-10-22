@@ -3,3 +3,5 @@
 ## adintegra.github.io
 
 A small website.
+
+Refer to [https://github.com/adintegra/til](https://github.com/adintegra/til) for the TIL section (inspiration taken from [https://github.com/jonasbn/til](https://github.com/jonasbn/til))
